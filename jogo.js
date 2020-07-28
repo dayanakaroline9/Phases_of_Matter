@@ -161,7 +161,7 @@ function draw() {
       //Titulo do jogo
       fill(corText);
       stroke(corText);
-      textFont('Georgia');
+      //textFont('Georgia');
       textSize(70);
       text("Phases", 300, 250);
       text("of", 300, 320);
