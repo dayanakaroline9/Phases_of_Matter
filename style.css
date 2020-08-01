@@ -3,9 +3,6 @@ html, body {
   padding: 0;
   background: lightblue;
 }
-canvas {
-  display: block;
-}
 
 h1{
   color: white;
