@@ -2,18 +2,17 @@ html, body {
   margin: 0;
   padding: 0;
   background: lightblue;
-	font-family: verdana;
 }
 canvas {
   display: block;
 }
 
 h1{
-	color: white;
-	text-align: center;
+  color: white;
+  text-align: center;
 }
 
 .desc{
-	color: white;
-	text-align: center;
+  color: white;
+  text-align: center;
 }
