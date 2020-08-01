@@ -6,7 +6,8 @@ html,body {
 }
 canvas {
   display: inline;
-  margin:100px;
+  margin-left:25%;
+  margin-right:25%;
   
 }
 
@@ -16,8 +17,9 @@ h1 {
 }
 
 .desc {
+  margin-left: 25%;
+  margin-right:25%;
   color: white;
   text-align: justify;
-  margin-left: 150px;
-  margin-right:150px;
+  
 }
