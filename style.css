@@ -21,5 +21,14 @@ h1 {
   margin-right:25%;
   color: white;
   text-align: justify;
-  
+}
+
+footer{
+	display:block;
+	background-color:##1E90FF;
+	height:20px;
+	width:100%;
+	color:#fff;
+	margin-top:50px;
+	text-align:center;
 }
